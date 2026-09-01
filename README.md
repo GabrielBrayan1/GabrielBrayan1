@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o **Gabriel Brayan**!
 
-🚀 **Desenvolvedor(a) em formação** apaixonado(a) por tecnologia e resolução de problemas.
+🚀 **Desenvolvedor em formação** apaixonado por tecnologia e resolução de problemas.
 
-- 🎓 Atualmente estudando **Python e Web Development** no Senai!
+- 🎓 Atualmente estudando **Python e Web Development** no Senai!!
 
 
 ---
@@ -23,6 +23,3 @@
 
 ---
 
-# 📊 Linguagens Mais Utilizadas
-
-![Linguagens Mais Utilizadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bellanzada&theme=tokyonight&layout=compact)
