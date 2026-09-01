@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o **Gabriel Brayan**!
+#**Gabriel Brayan**
 
 🚀 **Desenvolvedor em formação** apaixonado por tecnologia e resolução de problemas.
 
