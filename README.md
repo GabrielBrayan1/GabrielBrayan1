@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, eu sou o Gabriel Brayan!
+🚀 Desenvolvedor(a) em formação apaixonado(a) por tecnologia e resolução de problemas.
 
-<!--
-**GabrielBrayan1/GabrielBrayan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente estudando Python e Web Development no Senai!
 
-Here are some ideas to get you started:
+🛠️ Stack Principal
+🌐 Front-end
+HTML5 CSS3 Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Linguagens
+Python
+
+💻 Terminal & OS
+Linux CMD
+
+🔀 Versionamento
+Git GitHub
